@@ -1,0 +1,13 @@
+.log{
+    container: 22px;
+    padding: 10px;
+    margin: 10px;
+    
+}
+.log h3 {
+    font-size: 16px;
+    line-height: 1.5;
+    color: white;
+    margin-bottom: 10px;
+    container: 22px;
+}

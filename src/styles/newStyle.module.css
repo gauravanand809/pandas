@@ -1,0 +1,19 @@
+.nava {
+    position: fixed; 
+    color: whitesmoke;
+    font-size: 20px;
+    top: 20px; /* Adjust the top spacing as needed */
+    right: 20px; /* Adjust the right spacing as needed */
+    display: flex;
+    z-index: 1000;
+}
+
+.nava ul {
+    display: flex; /* Align list items horizontally */
+    margin-left: 20px; /* Adjust the spacing between items */
+    list-style: none; /* Remove default list styles */
+}
+
+.nava li {
+    margin-right: 15px; /* Fixed margin between list items */
+}
