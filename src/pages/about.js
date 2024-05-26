@@ -1,11 +1,13 @@
 import React from 'react'
 
 const about = () => {
-  return (
-    <div>
-      <h2>hey what's up</h2>
-    </div>
-  )
+
+    return (
+      <div>
+        This is the about page. It&apos;s John&apos;s favorite page.
+      </div>
+    );
+  
 }
 
 export default about
