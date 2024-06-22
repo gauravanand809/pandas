@@ -16,7 +16,8 @@ Neo4j-5e58d9d9-Created-2024-05-26.env
 
 # production
 /build
-
+A_Verify_Password.cpp
+.cph
 # misc
 .DS_Store
 *.pem
